@@ -1,8 +1,9 @@
 # Road_Damage_Detection_with_YOLO
 
 rddDetector has only 3.35M Params.
-Trained on Global Road Damage Detection 2020.
+![structure](https://github.com/HYK-baby/Road_Damage_Detection_with_YOLO/blob/main/structure.png)
 
+Trained on Global Road Damage Detection 2020.
 Model|params|test1|test2
 ---- | ---- | --- | ---
 Ours w.Mosaic|3.35M|55.58%|55.00%
