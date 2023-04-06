@@ -368,4 +368,3 @@ if __name__ == "__main__":
     args = parser.parse_args(sys.argv[1:])
     main(args.annotation_path, args.weights, args.avgweights, args.dst)
 # python eval_grddc.py --annotation_path annotation/rdd_test1_20.txt --weights weights/ep180-loss5.536.h5 --dst res_grddc2.csv --avgweights weights/model-180
-# https://github.com/HYK-baby/Road_Damage_Detection_with_YOLO.git
